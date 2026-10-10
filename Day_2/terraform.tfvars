@@ -1,0 +1,11 @@
+
+project_name          = "lab2"
+environment           = "dev"
+vpc_cidr              = "10.0.0.0/16"
+public_subnet_a_cidr  = "10.0.1.0/24"
+public_subnet_b_cidr  = "10.0.3.0/24"
+private_subnet_a_cidr = "10.0.2.0/24"
+private_subnet_b_cidr = "10.0.4.0/24"
+AZ-1a                 = "us-east-1a"
+AZ-1b                 = "us-east-1b"
+ami_id                = "ami-0b6d9d3d33ba97d99"
